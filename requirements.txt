@@ -6,7 +6,7 @@ protobuf==3.14.0
 jsonschema==3.2.0
 PyYAML>=5.3.1
 click==7.1.2
-paddlepaddle==1.8.5
+paddlepaddle>=1.8.5
 
 # enhance
 visualdl==2.0.5
